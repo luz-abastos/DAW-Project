@@ -1,0 +1,3 @@
+ssh -i "ejercicio1.pem" ubuntu@ec2-3-86-31-192.compute-1.amazonaws.com
+ip 3.86.31.192
+id instancia i-0916b13ae86d1f18b
